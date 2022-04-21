@@ -15,7 +15,7 @@ class FootJob extends PluginBase implements Listener
     {
         self::$instance = $this;
 
-        #$this->getServer()->getPluginManager()->registerEvents($this, $this);
+        #$this->getServer()->getPluginManager()->registerEvents($this, $this) really I don't know ;
         $cmds = new Commands($this);
         $this->getServer()->getCommandMap()->register("footjob", $cmds);
 
