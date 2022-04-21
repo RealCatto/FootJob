@@ -1,0 +1,12 @@
+name: FootJob
+version: 20.6.0
+main: Tungsten\FootJob\FootJob
+api: 4.0.0
+author: Tungsten
+authors:
+  - DavidGlitch04
+
+permissions:
+  footjob.permission:
+    description: Allow to use footjob command
+    default: op
