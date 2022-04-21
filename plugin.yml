@@ -1,5 +1,5 @@
 name: FootJob
-version: 20.6.0
+version: 6.0.0
 main: Tungsten\FootJob\FootJob
 api: 4.0.0
 author: Tungsten,RealCatto 
